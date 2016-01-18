@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:23
+-keep class me.spadival.podmode.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class me.spadival.podmode.NoticesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class me.spadival.podmode.PodModeService { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class me.spadival.podmode.PodNotifyService { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class me.spadival.podmode.SettingsActivity { <init>(...); }
+

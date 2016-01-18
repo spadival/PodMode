@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_stat_podmode.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-ldpi/ic_stat_podmode.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-ldpi-v4/splash.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-ldpi/splash.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-ldpi-v4/serial_icon.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-ldpi/serial_icon.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-ldpi-v4/back.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-ldpi/back.png"
+    }
+]

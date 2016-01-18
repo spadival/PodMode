@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/xml/accessory_filter.xml",
+        "source": "/home/shailu/PodMode/PodMode/res/xml/accessory_filter.xml"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/xml/filter.xml",
+        "source": "/home/shailu/PodMode/PodMode/res/xml/filter.xml"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/xml/serviceconfig.xml",
+        "source": "/home/shailu/PodMode/PodMode/res/xml/serviceconfig.xml"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/shailu/PodMode/PodMode/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,735 @@
+[
+    {
+        "outputFile": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3122,
+                        "endLine": 65,
+                        "endColumn": 19,
+                        "endOffset": 3278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3283,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 57,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 57,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 55,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 55,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 44,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 44,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 43,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 112,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 112,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 52,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2952,
+                        "endColumn": 52,
+                        "endOffset": 3000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 59,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 59,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 104,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 104,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 44,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 70,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 70,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 62,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3058,
+                        "endColumn": 62,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 55,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 55,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 52,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3005,
+                        "endColumn": 52,
+                        "endOffset": 3053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 50,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 50,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 50,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 50,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 156,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1585,
+                        "endColumn": 156,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endColumn": 45,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 45,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 81,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 81,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endLine": 58,
+                    "endColumn": 13,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endLine": 55,
+                        "endColumn": 13,
+                        "endOffset": 2888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 55,
+                    "endOffset": 2911
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 55,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2916,
+                    "endColumn": 55,
+                    "endOffset": 2967
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 55,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2972,
+                    "endColumn": 53,
+                    "endOffset": 3021
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 53,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3026,
+                    "endColumn": 57,
+                    "endOffset": 3079
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 57,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3084,
+                    "endColumn": 59,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 59,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 45,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1146,
+                        "endColumn": 45,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 55,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 55,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 100,
+                    "endOffset": 3342
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 100,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3347,
+                    "endColumn": 42,
+                    "endOffset": 3385
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 42,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3390,
+                    "endColumn": 40,
+                    "endOffset": 3426
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 40,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3431,
+                    "endColumn": 55,
+                    "endOffset": 3482
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 55,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3487,
+                    "endColumn": 58,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2893,
+                        "endColumn": 58,
+                        "endOffset": 2947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 47,
+                    "endOffset": 3589
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 47,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3594,
+                    "endColumn": 111,
+                    "endOffset": 3701
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 111,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3706,
+                    "endColumn": 61,
+                    "endOffset": 3763
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 61,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3768,
+                    "endColumn": 57,
+                    "endOffset": 3821
+                },
+                "from": {
+                    "file": "/home/shailu/PodMode/PodMode/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

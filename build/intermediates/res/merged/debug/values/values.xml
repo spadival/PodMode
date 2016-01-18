@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_baud_rate">
+        <item>19200 Baud</item>
+        <item>38400 Baud</item>
+        <item>57600 Baud</item>
+    </string-array>
+    <string-array name="settings_baud_rate_value">
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="Accessibility_description">"Display Status Bar Notifications on your Audio accessory"</string>
+    <string name="action_settings">Settings</string>
+    <string name="advanced_remote">Advanced Remote</string>
+    <string name="advanced_remote_summary">Default media app controlled in Advanced Remote Mode</string>
+    <string name="app_name">PodMode</string>
+    <string name="bad_usb">Connect DIY USB cable or Bluetooth</string>
+    <string name="baud_rate_setting">Connection speed</string>
+    <string name="debug_message">debug message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_notices">"Notices"</string>
+    <string name="menu_settings">Settings</string>
+    <string name="music_unavailable">No available music to play. Place some music on your external storage device (e.g. your SD card) and try again</string>
+    <string name="nav_appname">"Nav"</string>
+    <string name="no_media_player">No Media Player with Remote installed</string>
+    <string name="notices">
+&lt;br>&lt;h2>Copyright \u00A9 2013 Shailendra Padival&lt;/h2> 
+        &lt;br>
+        &lt;br>
+&lt;br>&lt;h2>FTDriver.class:&lt;/h2>FTDI Driver Class 
+&lt;br>Copyright \u00A9 2011 @ksksue
+&lt;br>Licensed under the Apache License, Version 2.0
+&lt;br>http://www.apache.org/licenses/LICENSE-2.0
+&lt;br>		  
+&lt;br>thanks to @titoi2 @darkukll @yakagawa @yishii @hyokota555 @juju_suu
+&lt;br>
+&lt;br>
+&lt;br>&lt;h2>MusicRetriever.class,MusicFocusable.class,AudioFocusHelper.class,PrepareMusicRetrieverTask.class:&lt;/h2>Copyright \u00A9 2011 The Android Open Source Project
+&lt;br>		 
+&lt;br>Licensed under the Apache License, Version 2.0 (the "License");
+&lt;br>you may not use this file except in compliance with the License.
+&lt;br>You may obtain a copy of the License at
+&lt;br>		 
+&lt;br>http://www.apache.org/licenses/LICENSE-2.0
+&lt;br>		 
+&lt;br>Unless required by applicable law or agreed to in writing, software
+&lt;br>distributed under the License is distributed on an "AS IS" BASIS,
+&lt;br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+&lt;br>implied.
+&lt;br>
+&lt;br>&lt;h2>Credits:&lt;/h2>"HOLY METAL" background from http://blog.stevendesigns.com/android-wallpapers/
+
+    </string>
+    <string name="notify_loading">" (loading)"</string>
+    <string name="notify_playing">" (playing)"</string>
+    <string name="now_playing">Now Playing..</string>
+    <string name="podmode_connected">Connected..</string>
+    <string name="podmode_connecting">Connecting..</string>
+    <string name="settings">Settings</string>
+    <string name="simple_remote">Simple Remote</string>
+    <string name="simple_remote_summary">Default media app controlled in Simple Remote Mode</string>
+    <string name="switch_off">OFF</string>
+    <string name="switch_on">ON</string>
+    <string name="title_activity_main">PodMode</string>
+    <string name="title_activity_notices">Notices</string>
+    <string name="wake_lock">Wake Lock</string>
+    <string name="wake_lock_summary">Full Wakelock may be needed for USB OTG operation on some devices</string>
+    <string name="wake_lock_title">USB OTG operation</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

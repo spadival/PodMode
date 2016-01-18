@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/shailu/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/home/shailu/PodMode/PodMode/build/intermediates/pre-dexed/debug/support-v4-19.0.1_ddafce4df6f088d45f5cb21efa5c4c0446056c2c.jar" />
+    </item>
+
+</items>

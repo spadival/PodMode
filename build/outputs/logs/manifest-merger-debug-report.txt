@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:2:1-83:12
+	xmlns:android
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:3:5-34
+	android:versionName
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:5:5-30
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:4:5-29
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:10:22-64
+uses-feature#android.hardware.usb.host
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:12:19-59
+uses-feature#android.hardware.usb.accessory
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:13:19-64
+uses-sdk
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:15:5-17:41
+	android:targetSdkVersion
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:17:9-38
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:16:9-35
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+		INJECTED from /home/shailu/PodMode/PodMode/AndroidManifest.xml
+application
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:19:5-81:19
+	android:label
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:20:9-36
+	android:icon
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:21:9-45
+activity#me.spadival.podmode.MainActivity
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:23:9-46:20
+	android:screenOrientation
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:28:13-52
+	android:label
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:25:13-74
+	android:theme
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:24:13-60
+	android:launchMode
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:27:13-43
+intent-filter#android.hardware.usb.action.USB_ACCESSORY_ATTACHED+android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:30:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:33:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:35:17-90
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:35:25-87
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:36:17-93
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:36:25-90
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:39:13-41:50
+	android:resource
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:41:17-47
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:40:17-79
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:42:13-45:25
+	android:resource
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:44:17-57
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:43:17-82
+activity#me.spadival.podmode.SettingsActivity
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:48:13-64
+service#me.spadival.podmode.PodModeService
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:52:9-58:19
+	android:exported
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:53:13-62
+intent-filter#me.spadival.podmode.PodModeService
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:55:13-57:29
+action#me.spadival.podmode.PodModeService
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:56:25-74
+service#me.spadival.podmode.PodNotifyService
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:59:9-75:19
+	android:exported
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:62:13-37
+	android:enabled
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:61:13-35
+	android:permission
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:63:13-79
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:60:13-64
+intent-filter#android.accessibilityservice.AccessibilityService+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:64:13-70:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:69:17-92
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:69:25-89
+meta-data#android.accessibilityservice
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:72:13-74:57
+	android:resource
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:74:17-54
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:73:17-60
+activity#me.spadival.podmode.NoticesActivity
+ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:77:9-80:20
+	android:label
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:79:13-59
+	android:name
+		ADDED from /home/shailu/PodMode/PodMode/AndroidManifest.xml:78:13-63

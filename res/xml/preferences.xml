@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/simple_remote" >
+        <ListPreference
+            android:icon="@android:drawable/ic_media_play"
+            android:key="selectapp"
+            android:summary="@string/simple_remote_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/advanced_remote" >
+        <ListPreference
+            android:icon="@android:drawable/ic_media_play"
+            android:key="selectadvancedapp"
+            android:summary="@string/advanced_remote_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/baud_rate_setting" >
+        <ListPreference
+            android:defaultValue="57600"
+            android:entries="@array/settings_baud_rate"
+            android:entryValues="@array/settings_baud_rate_value"
+            android:icon="@drawable/serial_icon"
+            android:key="baud_rate" >
+        </ListPreference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/wake_lock_title" >
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@android:drawable/ic_lock_lock"
+            android:key="wakelock"
+            android:summary="@string/wake_lock_summary"
+            android:switchTextOff="@string/switch_off"
+            android:switchTextOn="@string/switch_on"
+            android:title="@string/wake_lock" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

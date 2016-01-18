@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_podmode.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/ic_stat_podmode.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/back.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/shailu/PodMode/PodMode/build/intermediates/res/merged/debug/drawable-hdpi-v4/serial_icon.png",
+        "source": "/home/shailu/PodMode/PodMode/res/drawable-hdpi/serial_icon.png"
+    }
+]

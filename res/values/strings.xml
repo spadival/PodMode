@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PodMode</string>
+    <string name="title_activity_main">PodMode</string>
+    <string name="podmode_connected">Connected..</string>
+    <string name="podmode_connecting">Connecting..</string>
+    <string name="simple_remote">Simple Remote</string>
+    <string name="advanced_remote">Advanced Remote</string>
+    <string name="now_playing">Now Playing..</string>
+    <string name="debug_message">debug message</string>
+    <string name="simple_remote_summary">Default media app controlled in Simple Remote Mode</string>
+    <string name="advanced_remote_summary">Default media app controlled in Advanced Remote Mode</string>
+    <string name="switch_on">ON</string>
+    <string name="wake_lock">Wake Lock</string>
+    <string name="switch_off">OFF</string>
+    <string name="menu_settings">Settings</string>
+    <string name="no_media_player">No Media Player with Remote installed</string>
+    <string name="wake_lock_summary">Full Wakelock may be needed for USB OTG operation on some devices</string>
+    <string name="wake_lock_title">USB OTG operation</string>
+    <string name="settings">Settings</string>
+    <string name="bad_usb">Connect DIY USB cable or Bluetooth</string>
+    <string name="notify_playing">" (playing)"</string>
+    <string name="notify_loading">" (loading)"</string>
+    <string name="menu_notices">"Notices"</string>
+    <string name="nav_appname">"Nav"</string>
+    <string name="Accessibility_description">"Display Status Bar Notifications on your Audio accessory"</string>
+    <string name="music_unavailable">No available music to play. Place some music on your external storage device (e.g. your SD card) and try again</string>
+    <string name="notices">
+<![CDATA[<br><h2>Copyright \u00A9 2013 Shailendra Padival</h2> 
+        <br>
+        <br>
+<br><h2>FTDriver.class:</h2>FTDI Driver Class 
+<br>Copyright \u00A9 2011 @ksksue
+<br>Licensed under the Apache License, Version 2.0
+<br>http://www.apache.org/licenses/LICENSE-2.0
+<br>		  
+<br>thanks to @titoi2 @darkukll @yakagawa @yishii @hyokota555 @juju_suu
+<br>
+<br>
+<br><h2>MusicRetriever.class,MusicFocusable.class,AudioFocusHelper.class,PrepareMusicRetrieverTask.class:</h2>Copyright \u00A9 2011 The Android Open Source Project
+<br>		 
+<br>Licensed under the Apache License, Version 2.0 (the "License");
+<br>you may not use this file except in compliance with the License.
+<br>You may obtain a copy of the License at
+<br>		 
+<br>http://www.apache.org/licenses/LICENSE-2.0
+<br>		 
+<br>Unless required by applicable law or agreed to in writing, software
+<br>distributed under the License is distributed on an "AS IS" BASIS,
+<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+<br>implied.
+<br>
+<br><h2>Credits:</h2>"HOLY METAL" background from http://blog.stevendesigns.com/android-wallpapers/
+]]>
+    </string>
+    <string name="title_activity_notices">Notices</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="baud_rate_setting">Connection speed</string>
+
+    <string-array name="settings_baud_rate">
+        <item>19200 Baud</item>
+        <item>38400 Baud</item>
+        <item>57600 Baud</item>
+    </string-array>
+    <string-array name="settings_baud_rate_value">
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+    </string-array>
+</resources>
